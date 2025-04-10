@@ -2,7 +2,7 @@ body{
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #494545;
+    background-color: #999696;
 }
 
 header{
@@ -10,4 +10,12 @@ header{
     width: 100%;
     height: 60px;
     background-color: #333;
+}
+
+header nav{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
 }
